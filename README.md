@@ -25,7 +25,7 @@ Las noticias se almacenan en formato JSON, siguiendo la estructura que se detall
     "title": "Título de la Noticia",
     "imageUrl": "URL de la imagen asociada a la noticia",
     "content": "Contenido de la noticia en formato HTML",
-    "date": "Fecha de publicación en formato YYYY-MM-DD"
+    "date": "Fecha de publicación en formato DD-MM-YYYY"
   }
 ]
 ```
@@ -36,4 +36,4 @@ Cada noticia incluye:
 - Título: El título oficial de la noticia.
 - Imagen: URL de la imagen representativa 📷.
 - Contenido: El contenido completo de la noticia en formato HTML.
-- Fecha: La fecha de publicación en formato YYYY-MM-DD.
+- Fecha: La fecha de publicación en formato DD-MM-YYYY.
